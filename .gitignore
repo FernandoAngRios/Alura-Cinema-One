@@ -7,8 +7,6 @@
 
 # testing
 /coverage
-/src/components/Banner
-/src/components/Titulo
 
 # production
 /build
